@@ -5,4 +5,8 @@ class Dog
     @name = name
   end
 
+  def clear_all
+    
+  end
+
 end
